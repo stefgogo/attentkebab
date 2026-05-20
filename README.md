@@ -1,2 +1,0 @@
-# attentkebab
-My own website.
